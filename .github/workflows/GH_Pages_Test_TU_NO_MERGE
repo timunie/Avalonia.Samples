@@ -1,4 +1,4 @@
-name: Deploy AdvancedToDoList to GitHub Pages
+name: Deploy AdvancedToDoList
 
 env:
   PROJECT_PATH: src/Avalonia.Samples/CompleteApps/AdvancedToDoList/AdvancedToDoList.Browser/AdvancedToDoList.Browser.csproj
